@@ -12,7 +12,7 @@ public class Artikel {
     private String naam;
     private BigDecimal aankoopPrijs;
     private BigDecimal verkoopPrijs;
-
+    //Test for git
     protected Artikel() {
     }
 
